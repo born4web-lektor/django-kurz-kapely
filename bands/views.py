@@ -149,7 +149,6 @@ class SongDetailView(DetailView):
     template_name = 'song_detail_page_template.html'
 
 
-
 # **********************************
 # CREATE VIEWS
 # **********************************
