@@ -48,7 +48,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # third party
     'django_extensions',
-    'bootstrap5',
+    'django_bootstrap5',
 
     # my apps
     'bands',

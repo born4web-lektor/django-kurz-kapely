@@ -5,8 +5,8 @@ Vzorová aplikace (kapely, alba, písně) ke kurzu **django-kurz-basic**. Vznikl
 tvoříme. Kurz samotný (výklad, scénáře, studijní materiály) žije v repu `django-kurz-basic`.
 
 ## Stack
-Python 3.12, Django 4.2 (stará verze — plánovaný upgrade spolu s kurzem), SQLite,
-`django-extensions`, `django-bootstrap-v5`, pytest + pytest-django. Závislosti
+Python 3.12, Django 5.2 LTS, SQLite,
+`django-extensions`, `django-bootstrap5` (appka `django_bootstrap5`), pytest + pytest-django. Závislosti
 v `requirements.txt` (pip, žádné Poetry; `psycopg2-binary` zbyl z konfigurace pro deployment).
 
 ## Struktura
