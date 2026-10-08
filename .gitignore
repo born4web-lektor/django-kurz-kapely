@@ -163,3 +163,5 @@ cython_debug/
 .idea
 
 pull_all.py
+# Claude Code local configuration
+.claude/settings.local.json
